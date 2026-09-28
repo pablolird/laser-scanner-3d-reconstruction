@@ -129,3 +129,7 @@ to_ply.py                 .xyz → binary .ply
 DEVLOG.md                 development log: what was tried and why
 data/                     input scan (not included, see Running it)
 ```
+
+## License
+
+Code is released under the [MIT License](LICENSE). The scan data used during development is not included and is not covered by this license.
