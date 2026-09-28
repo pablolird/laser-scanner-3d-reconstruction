@@ -1,0 +1,13 @@
+# debug renders (regenerate with debug_tools.py); README figures live in docs/
+*.png
+!docs/*.png
+__pycache__
+.DS_Store
+
+# generated outputs (regenerate with reconstruct.py / to_ply.py)
+output.xyz
+output.ply
+*.zip
+
+# course-provided scan data is not redistributed (see README)
+data/
